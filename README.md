@@ -1,6 +1,6 @@
 # 👩‍💻STUDY
 
-## 김영한의 스프링 DB편 - 데이터 접근 활용 기술
+## 김영한의 스프링 DB 2편 - 데이터 접근 활용 기술
 
 - SECTION 2 : 스프링 JdbcTemplate
 - SECTION 3 : 테스트
