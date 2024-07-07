@@ -7,6 +7,7 @@
 - SECTION 4 : MyBatis
 - SECTION 5 : JPA
 - SECTION 6 : 스프링 데이터 JPA
+- SECTION 7 : Querydsl
 
 # ⚙️SETTING
 
@@ -24,4 +25,4 @@
 - [x] MyBatis
 - [X] JPA
 - [X] 스프링 데이터 JPA
-- [ ] Querydsl
+- [X] Querydsl
